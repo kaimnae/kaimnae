@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hi, there. I’m Kain
 
+Senior full-stack engineer & architect with 9+ years in designing & building vertical transaction systems—specializing in hotel mall systems, flower trading platforms.
+
+🧮 Focus & Expertise Areas
+
+✔ Built scalable systems (hotel malls, flower trading) with Golang/PHP; designed high-performance data layers (Redis/PostgreSQL/MongoDB) for transaction scenarios.
+
+✔ Proficient in Angular/React for frontend; designed & implemented RESTful APIs, microservices, and message queue architectures for high-traffic systems.
+
+✔ Streamlined DevOps workflows with Docker, Kubernetes, GitHub Actions; managed multi-cloud deployments (AWS, Vercel, Alibaba Cloud, Tencent Cloud).
 <!--
 **kaimnae/kaimnae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
